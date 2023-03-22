@@ -1,0 +1,21 @@
+20
+9 30 391 270 object1
+140 127 24 15 object2
+140 144 3 2 object3
+21 170 10 4 object4
+389 170 1 1 object5
+76 175 2 1 object6
+34 177 1 1 object7
+14 187 2 1 object8
+150 226 3 2 object9
+236 237 3 1 object10
+30 261 1 1 object11
+230 264 15 14 object12
+292 264 3 1 object13
+199 282 6 6 object14
+211 283 8 4 object15
+191 289 3 1 object16
+300 288 5 4 object17
+181 291 4 3 object18
+194 291 2 2 object19
+399 299 1 1 object20

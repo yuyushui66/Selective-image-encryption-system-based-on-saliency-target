@@ -1,0 +1,10 @@
+9
+25 45 24 16 object1
+17 48 359 215 object2
+269 56 10 2 object3
+194 59 1 1 object4
+331 77 5 4 object5
+342 76 4 2 object6
+22 97 3 3 object7
+22 104 3 2 object8
+360 252 1 1 object9
