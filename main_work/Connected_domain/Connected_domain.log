@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\Users\86152\Desktop\Connected_domain\Connected_domain\main.cpp(104,39): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  0 of 393 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Connected_domain.vcxproj -> D:\Users\86152\Desktop\Connected_domain\Connected_domain\x64\Release\Connected_domain.exe

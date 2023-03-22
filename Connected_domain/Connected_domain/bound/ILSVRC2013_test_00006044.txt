@@ -1,0 +1,6 @@
+5
+152 16 13 23 object1
+32 31 147 355 object2
+167 159 1 1 object3
+224 371 7 7 object4
+0 399 1 1 object5

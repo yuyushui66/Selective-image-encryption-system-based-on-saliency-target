@@ -1,0 +1,21 @@
+20
+295 2 4 4 object1
+306 2 2 1 object2
+154 8 165 138 object3
+304 8 2 5 object4
+314 15 1 1 object5
+329 15 1 3 object6
+296 74 34 17 object7
+311 92 5 6 object8
+312 123 2 1 object9
+307 125 2 1 object10
+315 124 3 1 object11
+339 127 2 2 object12
+314 128 10 5 object13
+341 129 2 1 object14
+319 133 7 5 object15
+325 139 1 1 object16
+262 142 7 3 object17
+296 145 2 1 object18
+164 156 100 58 object19
+76 164 67 35 object20
