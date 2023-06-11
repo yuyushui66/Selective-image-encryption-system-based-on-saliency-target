@@ -1,5 +1,5 @@
 # Selective-image-encryption-system-based-on-saliency-target
-# 项目名称：基于语义理解的选择性图像加密系统
+# 项目名称：面向图像内容理解的ROI加密系统
 
 ## 项目源码成分分布：
 ```
